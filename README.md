@@ -108,11 +108,22 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-4D7A97?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap"/>
+   <img src="https://img.shields.io/badge/Wazuh-Security%20Monitoring-FF69B4?style=for-the-badge" alt="Wazuh" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logoColor=white" alt="Nessus"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/Packet_Tracer-0070AD?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
 </p>
+
+
+### 🔎 Digital Forensics & Incident Response (DFIR)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-FF69B4?style=for-the-badge" alt="Autopsy" />
+  <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-F8BBD0?style=for-the-badge" alt="ExifTool" />
+  <img src="https://img.shields.io/badge/NIST-Forensics%20%26%20Incident%20Response-EF93C4?style=for-the-badge" alt="NIST" />
+</p>
+
 
 <p align="center">
   <sub>Some technologies may be part of my learning roadmap. I'll update this section as my skills and projects grow.</sub>
@@ -154,7 +165,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <div align="center">
 
-<a href="https://github.com/[Mimiee-dev]/[PROJECT_REPOSITORY_1]">
+<a href="https://github.com/[Mimiee-dev]/[Kali-VMware-Setup-Lab">]">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_REPOSITORY_1]&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Featured project one"/>
 </a>
 
