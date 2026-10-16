@@ -142,23 +142,17 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mimiee-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
 
 <img width="49%" src="https://img.shields.io/badge/Focus-Cybersecurity- EF93C4?style=for-the-badge" alt="Cybersecurity focus"/>
-```
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev]&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20Contribution%20Garden%20%F0%9F%8C%B8" alt="GitHub activity graph"/>
+
+</div>
 
 <br/><br/>
-```
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden" alt="GitHub activity graph"/>
-</p>
-```
-```
 <img width="80%" src="https://streak-stats.demolab.com?user=mimiee-dev&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden" alt="GitHub activity graph"/>
 
-</div>
 
 <!-- Featured Projects -->
 <h2 align="center">🌷 Featured Projects</h2>
