@@ -34,7 +34,7 @@ Hi, welcome to my little corner of GitHub! 💗
 
 I'm an aspiring cybersecurity professional studying cybersecurity at TAFE. I'm passionate about networking, digital security, and understanding how to protect systems from threats.
 
-- 🎓 **Currently learning:** Cybersecurity, IT and CCNA networking concepts.
+- 🎓 **Currently learning:** Cybersecurity | Studying for CCNA
 - 🔐 **Main interests:** Network security, ethical hacking and threat detection.
 - 🛠️ **Hands-on learning:** Exploring security tools, virtual labs and networking environments.
 - 🔎 **Digital forensics:** Learning investigation techniques using forensic tools.
@@ -64,8 +64,6 @@ I use GitHub to document my learning journey, showcase practical projects, and c
   <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4D7A97?style=for-the-badge" alt="Nmap"/>
   <img src="https://img.shields.io/badge/OpenVPN-VPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN"/>
-  <img src="https://img.shields.io/badge/Fortinet-FortiGate-EE3124?style=for-the-badge" alt="Fortinet FortiGate"/>
-  <img src="https://img.shields.io/badge/Palo%20Alto-Network%20Security-F04B4B?style=for-the-badge" alt="Palo Alto Networks"/>
   <img src="https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge" alt="pfSense"/>
 </p>
 
@@ -83,7 +81,7 @@ I use GitHub to document my learning journey, showcase practical projects, and c
 <p align="center">
   <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-FF69B4?style=for-the-badge" alt="Autopsy"/>
   <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-F8BBD0?style=for-the-badge" alt="ExifTool"/>
-  <img src="https://img.shields.io/badge/NIST-Forensics%20%26%20Incident%20Response-EF93C4?style=for-the-badge" alt="NIST guidance"/>
+  <img src="https://img.shields.io/badge/SIFT-Forensics%20%26%20Incident%20Response-EF93C4?style=for-the-badge" alt="SIFT guidance"/>
 </p>
 
 <p align="center">
