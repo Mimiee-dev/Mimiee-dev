@@ -55,7 +55,7 @@
 
 I'm **[Maryam]**, an aspiring cybersecurity professional passionate about technology, networking, and digital security.
 
-- 🎓 **Currently learning:** Cybersecurity and IT.
+- 🎓 **Currently learning:** Cybersecurity and IT | Studying for my CCNA.
 - 🔐 **Main interests:** Network security, ethical hacking, and threat detection.
 - 🛠️ **Hands-on learning:** Exploring security tools, virtual labs, and networking environments.
 - 🌱 **Growing every day:** Developing practical technical skills and learning from real-world challenges.
@@ -95,7 +95,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <h3 align="center">🌐 Networking & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,ubuntu,cloudflare&theme=light" alt="Networking and infrastructure icons"/>
+  <img src="https://skillicons.dev/icons?i=Cisco Packet Tracer,OpenVpn&theme=light" alt="Networking and infrastructure icons"/>
 </p>
 
 <h3 align="center">⚙️ Programming & Development</h3>
