@@ -95,10 +95,8 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <h3 align="center">🌐 Networking & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Cisco&theme=light" alt="Networking and infrastructure icons"/>
-  <p align="center">
-  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="50" alt="OpenVPN"/>
-</p>
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+  <img src="https://img.shields.io/badge/OpenVPN-VPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN"/>
 
 <h3 align="center">⚙️ Programming & Development</h3>
 
@@ -114,7 +112,6 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logoColor=white" alt="Nessus"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Packet_Tracer-0070AD?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
 </p>
 
 
