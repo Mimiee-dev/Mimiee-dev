@@ -96,7 +96,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <h3 align="center">⚙️ Programming & Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=light" alt="Programming and development icons"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" alt="Programming and development icons"/>
 </p>
 
 <h3 align="center">🔎 Security Tools</h3>
@@ -126,7 +126,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Maryam]&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
