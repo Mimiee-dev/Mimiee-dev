@@ -90,7 +90,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <h3 align="center">🌐 Networking & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,docker,ubuntu,cloudflare&theme=light" alt="Networking and infrastructure icons"/>
+  <img src="https://skillicons.dev/icons?i=cisco,ubuntu,cloudflare&theme=light" alt="Networking and infrastructure icons"/>
 </p>
 
 <h3 align="center">⚙️ Programming & Development</h3>
