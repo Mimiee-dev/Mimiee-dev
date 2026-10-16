@@ -23,13 +23,13 @@
 
 <br/>
 
-<a href="https://github.com/[GITHUB_USERNAME]">
-  <img src="https://img.shields.io/github/followers/[GITHUB_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=282438&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
+<a href="https://github.com/[Maryam]">
+  <img src="https://img.shields.io/github/followers/[Maryam]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=282438&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
 </a>
-<a href="https://github.com/[GITHUB_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[GITHUB_USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=282438&logo=github&logoColor=FFFFFF&label=Stars" alt="GitHub stars"/>
+<a href="https://github.com/[Maryam]?tab=repositories">
+  <img src="https://img.shields.io/github/stars/[Maryam]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=282438&logo=github&logoColor=FFFFFF&label=Stars" alt="GitHub stars"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=[Maryam]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
@@ -40,7 +40,7 @@
 ---
 
 <!-- About Me -->
-<h2 align="center">🎀 About Me</h2>
+<h2 align="center">🌸 About Me</h2>
 
 <table align="center" width="100%" border="0" cellpadding="12">
 <tr>
@@ -62,7 +62,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 </td>
 <td width="35%" valign="middle" align="center">
 
-<img src="https://github.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/raw/main/assets/profile.gif" width="100%" alt="Your profile illustration or GIF"/>
+<img src="https://github.com/[Maryam]/[Maryam]/raw/main/assets/profile.gif" width="100%" alt="Your profile illustration or GIF"/>
 
 <br/>
 
