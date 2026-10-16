@@ -24,6 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23EF93C4&color_dots=%23FFF0F6,%23FFD6E7,%23F8BBD0,%23EF93C4,%23D96AA5
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23EF93C4
 
+      - name: Fix generated file permissions
+        run: sudo chmod -R a+rwX dist
+
       - name: Generate monthly contribution graph
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
