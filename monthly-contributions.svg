@@ -14,8 +14,8 @@
 <text x="60" y="115.6" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="12" text-anchor="end">28</text>
 <line x1="72" y1="62.0" x2="972" y2="62.0" stroke="#30363D" stroke-width="1"/>
 <text x="60" y="66.0" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="12" text-anchor="end">35</text>
-<polygon points="72.0,310 72.0,310.0 153.8,310.0 235.6,310.0 317.5,310.0 399.3,310.0 481.1,310.0 562.9,253.3 644.7,310.0 726.5,310.0 808.4,69.1 890.2,310.0 972.0,310.0 972.0,310" fill="#EF93C4" opacity="0.20"/>
-<polyline points="72.0,310.0 153.8,310.0 235.6,310.0 317.5,310.0 399.3,310.0 481.1,310.0 562.9,253.3 644.7,310.0 726.5,310.0 808.4,69.1 890.2,310.0 972.0,310.0" fill="none" stroke="#EF93C4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="72.0,310 72.0,310.0 153.8,310.0 235.6,310.0 317.5,310.0 399.3,310.0 481.1,310.0 562.9,253.3 644.7,310.0 726.5,310.0 808.4,62.0 890.2,310.0 972.0,310.0 972.0,310" fill="#EF93C4" opacity="0.20"/>
+<polyline points="72.0,310.0 153.8,310.0 235.6,310.0 317.5,310.0 399.3,310.0 481.1,310.0 562.9,253.3 644.7,310.0 726.5,310.0 808.4,62.0 890.2,310.0 972.0,310.0" fill="none" stroke="#EF93C4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="72.0" cy="310.0" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
 <text x="72.0" y="298.0" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">0</text>
 <text x="72.0" y="338" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Jan</text>
@@ -43,8 +43,8 @@
 <circle cx="726.5" cy="310.0" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
 <text x="726.5" y="298.0" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">0</text>
 <text x="726.5" y="338" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Sep</text>
-<circle cx="808.4" cy="69.1" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
-<text x="808.4" y="57.1" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">34</text>
+<circle cx="808.4" cy="62.0" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
+<text x="808.4" y="50.0" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">35</text>
 <text x="808.4" y="338" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Oct</text>
 <circle cx="890.2" cy="310.0" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
 <text x="890.2" y="298.0" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">0</text>
@@ -52,5 +52,5 @@
 <circle cx="972.0" cy="310.0" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>
 <text x="972.0" y="298.0" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">0</text>
 <text x="972.0" y="338" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Dec</text>
-<text x="972" y="364" fill="#AAAAAA" font-family="Arial,sans-serif" font-size="12" text-anchor="end">Year-to-date total: 42</text>
+<text x="972" y="364" fill="#AAAAAA" font-family="Arial,sans-serif" font-size="12" text-anchor="end">Year-to-date total: 43</text>
 </svg>
