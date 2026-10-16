@@ -143,7 +143,14 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <img width="49%" src="https://img.shields.io/badge/Focus-Cybersecurity- EF93C4?style=for-the-badge" alt="Cybersecurity focus"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev]&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20Contribution%20Garden%20%F0%9F%8C%B8" alt="GitHub activity graph"/>
+<div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden"
+    alt="My GitHub Contribution Garden"
+  />
+</div>
+```
 
 </div>
 
