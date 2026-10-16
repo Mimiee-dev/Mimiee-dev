@@ -146,10 +146,11 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 
 <br/><br/>
-
+```
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden" alt="GitHub activity graph"/>
 </p>
+```
 ```
 <img width="80%" src="https://streak-stats.demolab.com?user=mimiee-dev&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
 
