@@ -132,7 +132,6 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <!-- GitHub Statistics -->
 <h2 align="center">📊 My GitHub Journey</h2>
-
 ```html
 <p align="center">
   <i>Every contribution is a little step forward. 🌸</i>
@@ -140,23 +139,19 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mimiee-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mimiee-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mimiee-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Mimiee-dev&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiee-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden%20%F0%9F%8C%B8" alt="GitHub activity graph"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=mimiee-dev&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20Contribution%20Garden" alt="GitHub activity graph"/>
 
 </div>
-```
-
-
----
 
 <!-- Featured Projects -->
 <h2 align="center">🌷 Featured Projects</h2>
