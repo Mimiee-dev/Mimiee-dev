@@ -100,7 +100,7 @@ I use GitHub to document my learning journey, showcase practical projects, and c
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mimiee-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="49%" src="https://img.shields.io/badge/Focus-Cybersecurity-282438?style=for-the-badge&labelColor=282438&color=EF93C4" alt="Cybersecurity focus"/>
+<img width="39%" src="https://img.shields.io/badge/Focus-Cybersecurity-282438?style=for-the-badge&labelColor=282438&color=EF93C4" alt="Cybersecurity focus"/>
 
 <br/><br/>
 
