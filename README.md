@@ -23,11 +23,11 @@
 
 <br/>
 
-<a href="https://github.com/[Maryam]">
+<a href="https://github.com/[Mimiee-dev]">
   <img src="https://img.shields.io/github/followers/[Maryam]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=282438&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/[Maryam]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[Maryam]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=282438&logo=github&logoColor=FFFFFF&label=Stars" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/Mimiee-dev]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=282438&logo=github&logoColor=FFFFFF&label=Stars" alt="GitHub stars"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=[Maryam]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -62,7 +62,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 </td>
 <td width="35%" valign="middle" align="center">
 
-<img src="https://github.com/[Maryam]/[Maryam]/raw/main/assets/profile.gif" width="100%" alt="Your profile illustration or GIF"/>
+<img src="https://github.com/Mimie-dev]/[Mimie-dev]/raw/main/assets/profile.gif" width="100%" alt="Your profile illustration or GIF"/>
 
 <br/>
 
@@ -124,17 +124,17 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[Mimiee-dev]&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub statistics"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Maryam]&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=[GITHUB_USERNAME]&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=[Mimee-dev]&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=AAAAAA&stroke=EF93C4" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20Contribution%20Garden%20%F0%9F%8C%B8" alt="GitHub activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[Maryam]&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20Contribution%20Garden%20%F0%9F%8C%B8" alt="GitHub activity graph"/>
 
 </div>
 
@@ -149,7 +149,7 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 
 <div align="center">
 
-<a href="https://github.com/[GITHUB_USERNAME]/[PROJECT_REPOSITORY_1]">
+<a href="https://github.com/[Mimiee-dev]/[PROJECT_REPOSITORY_1]">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_REPOSITORY_1]&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Featured project one"/>
 </a>
 
@@ -243,7 +243,7 @@ The workflow must be saved as a separate YAML file. Do not paste it into README.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[Maryam Aliyyu]/">
+  <a href="https://www.linkedin.com/in/[Maryam Aliyyu-9a7aa13b5]/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=282438" alt="Connect on LinkedIn"/>
   </a>
   <a href="mailto:[mimieeib@gmail.com]">
@@ -252,7 +252,7 @@ The workflow must be saved as a separate YAML file. Do not paste it into README.
 </p>
 
 <p align="center">
-  <a href="https://github.com/[Maryam]">
+  <a href="https://github.com/[Mimiee-dev]">
     <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-EF93C4?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=282438" alt="Follow on GitHub"/>
   </a>
 </p>
