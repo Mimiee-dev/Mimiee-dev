@@ -111,21 +111,19 @@ I use GitHub to document my learning journey, showcase practical projects, and c
 <br/><br/>
 
 
-<h2 align="center">🌸 My GitHub Activity Graph</h2>
+<h2 align="center">🌸 My Monthly GitHub Contributions</h2>
 
 <p align="center">
   <i>Every contribution is a step forward in my tech journey! 💗</i>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Mimiee-dev">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Mimiee-dev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true&custom_title=My%20Contribution%20Garden"
-      alt="Maryam's GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mimiee-dev/Maryam/output/monthly-contributions.svg"
+    alt="Maryam's monthly GitHub contributions for the current year"
+    width="100%"
+  />
+</p>
 >
 
 ---
