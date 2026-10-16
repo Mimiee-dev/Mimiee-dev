@@ -136,22 +136,30 @@ I use GitHub to document my learning journey, showcase practical projects, and c
 
 ---
 
+
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
   <i>Watching my contributions come to life, one square at a time!</i>
 </p>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimiee-dev/mimiee-dev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimiee-dev/mimiee-dev/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mimiee-dev/mimiee-dev/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mimiee-dev/Maryam/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mimiee-dev/Maryam/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Mimiee-dev/Maryam/output/github-contribution-grid-snake.svg"
+      alt="Pink GitHub contribution snake"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ---
 
