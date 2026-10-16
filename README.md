@@ -153,13 +153,6 @@ I use GitHub to document my learning journey, showcase practical projects, and c
 </div>
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mimiee-dev/mimiee-dev/output/github-snake.svg"
-    alt="Pink GitHub contribution snake"
-  />
-</p>
-
 ---
 
 <h2 align="center">💌 Let's Connect!</h2>
