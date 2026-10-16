@@ -1,5 +1,4 @@
-
-name: Generate Contribution Snake
+name: Generate Contribution Snake and Monthly Graph
 
 on:
   schedule:
@@ -25,7 +24,106 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23EF93C4&color_dots=%23FFF0F6,%23FFD6E7,%23F8BBD0,%23EF93C4,%23D96AA5
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23EF93C4
 
-      - name: Publish snake to output branch
+      - name: Generate monthly contribution graph
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Mimiee-dev
+        run: |
+          python - <<'PY'
+          import calendar
+          import datetime
+          import json
+          import os
+          import urllib.request
+          import html
+
+          year = datetime.datetime.now(datetime.timezone.utc).year
+          username = os.environ["GH_USERNAME"]
+          query = """
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              contributionsCollection(from: $from, to: $to) {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+          payload = {
+              "query": query,
+              "variables": {
+                  "login": username,
+                  "from": f"{year}-01-01T00:00:00Z",
+                  "to": f"{year}-12-31T23:59:59Z"
+              }
+          }
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=json.dumps(payload).encode("utf-8"),
+              headers={
+                  "Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                  "Content-Type": "application/json",
+                  "User-Agent": "monthly-contribution-graph"
+              }
+          )
+          with urllib.request.urlopen(request) as response:
+              result = json.load(response)
+
+          if result.get("errors") or not result.get("data", {}).get("user"):
+              raise RuntimeError(f"GitHub GraphQL query failed: {result.get('errors', result)}")
+
+          monthly = [0] * 12
+          weeks = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+          for week in weeks:
+              for day in week["contributionDays"]:
+                  date = datetime.date.fromisoformat(day["date"])
+                  if date.year == year:
+                      monthly[date.month - 1] += day["contributionCount"]
+
+          width, height = 1000, 380
+          left, right, top, bottom = 72, 28, 62, 70
+          plot_w, plot_h = width - left - right, height - top - bottom
+          max_value = max(monthly) if max(monthly) > 0 else 1
+          max_axis = max(5, int((max_value + 4) / 5) * 5)
+          xs = [left + i * plot_w / 11 for i in range(12)]
+          ys = [top + plot_h - (v / max_axis) * plot_h for v in monthly]
+          points = " ".join(f"{x:.1f},{y:.1f}" for x, y in zip(xs, ys))
+          area_points = f"{xs[0]:.1f},{top + plot_h} " + points + f" {xs[-1]:.1f},{top + plot_h}"
+          months = list(calendar.month_abbr)[1:]
+
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-label="Monthly GitHub contributions for {year}">',
+              '<rect width="100%" height="100%" rx="18" fill="#0D1117"/>',
+              f'<text x="{width/2}" y="34" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">My Contribution Garden · {year}</text>',
+              f'<text x="{left}" y="53" fill="#AAAAAA" font-family="Arial,sans-serif" font-size="12">Contributions per month</text>'
+          ]
+          for tick in range(6):
+              value = max_axis * tick / 5
+              y = top + plot_h - (value / max_axis) * plot_h
+              parts.append(f'<line x1="{left}" y1="{y:.1f}" x2="{width-right}" y2="{y:.1f}" stroke="#30363D" stroke-width="1"/>')
+              parts.append(f'<text x="{left-12}" y="{y+4:.1f}" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="12" text-anchor="end">{int(value)}</text>')
+          parts.append(f'<polygon points="{area_points}" fill="#EF93C4" opacity="0.20"/>')
+          parts.append(f'<polyline points="{points}" fill="none" stroke="#EF93C4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>')
+          for i, (x, y, value, month) in enumerate(zip(xs, ys, monthly, months)):
+              parts.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5.5" fill="#FF69B4" stroke="#0D1117" stroke-width="2"/>')
+              parts.append(f'<text x="{x:.1f}" y="{y-12:.1f}" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">{value}</text>')
+              parts.append(f'<text x="{x:.1f}" y="{top+plot_h+28}" fill="#F8BBD0" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">{month}</text>')
+          total = sum(monthly)
+          parts.append(f'<text x="{width-right}" y="{height-16}" fill="#AAAAAA" font-family="Arial,sans-serif" font-size="12" text-anchor="end">Year-to-date total: {total}</text>')
+          parts.append('</svg>')
+          os.makedirs("dist", exist_ok=True)
+          with open("dist/monthly-contributions.svg", "w", encoding="utf-8") as file:
+              file.write("\n".join(parts))
+          print(f"Created monthly graph for {year}: {monthly}")
+          PY
+
+      - name: Publish graphs to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
