@@ -159,23 +159,19 @@ I believe every challenge is an opportunity to learn something new. I'm using Gi
 <h2 align="center">🌷 Featured Projects</h2>
 
 <p align="center">
-  <i>A growing collection of projects, practical exercises, and cybersecurity experiments.</i>
+  <i>Hands-on labs and practical cybersecurity projects from my learning journey.</i>
 </p>
 
 <div align="center">
 
-<a href="https://github.com/[Mimiee-dev]/[Kali-VMware-Setup-Lab">]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_REPOSITORY_1]&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Featured project one"/>
-</a>
-
-<a href="https://github.com/[GITHUB_USERNAME]/[PROJECT_REPOSITORY_2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_REPOSITORY_2]&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Featured project two"/>
+<a href="https://github.com/Mimiee-dev/Kali-VMware-Setup-Lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mimiee-dev&repo=Kali-VMware-Setup-Lab&hide_border=true&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0" alt="Kali VMware Setup Lab repository"/>
 </a>
 
 </div>
 
 <p align="center">
-  💡 Replace the repository placeholders with your actual projects as you publish them.
+  🧪 Exploring virtual lab environments and building practical cybersecurity skills.
 </p>
 
 ---
