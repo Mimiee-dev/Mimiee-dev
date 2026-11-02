@@ -82,7 +82,7 @@ I use GitHub to document my learning journey, showcase practical projects, and c
   <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-FF69B4?style=for-the-badge" alt="Autopsy"/>
   <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-F8BBD0?style=for-the-badge" alt="ExifTool"/>
   <img src="https://img.shields.io/badge/SIFT-Forensics%20%26%20Incident%20Response-EF93C4?style=for-the-badge" alt="SIFT guidance"/>
-  <img src="https://img.shields.io/badge/Volatility-Memory%20%26%20Dump%20Analysis-EF93C4?style=for-the-badge" alt="Volatility"/>
+  <img src="https://img.shields.io/badge/Volatility-Memory%20Dump%20Analysis-EF93C4?style=for-the-badge" alt="Volatility"/>
   
 </p>
 
